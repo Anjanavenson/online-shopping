@@ -5,7 +5,7 @@ public class Toys {
     static List<String> toysCategories = new ArrayList<>();
 
 
-    public static void toysCategories(){
+    public static void toysCategories() throws Exception {
         toysCategories.add("Unicorn");
         toysCategories.add("Panda");
         toysCategories.add("Teddy");

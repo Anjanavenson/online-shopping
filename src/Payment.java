@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Payment {
     static List<String> paymentDetails = new ArrayList<>();
-    public static void setPaymentDetails(){
+    public static void setPaymentDetails() throws Exception{
         Scanner sc =new Scanner(System.in);
         paymentDetails.add("UPI");
         paymentDetails.add("Net Banking");
@@ -17,8 +17,10 @@ public class Payment {
             System.out.println("Order Placed");
         } else if (userInputCategory.equals("COD")){
             System.out.println("Order Placed");
+        }else{
+            throw new Exception("Payment method not matched");
         }
-        System.out.println();
+
     }
 
 }

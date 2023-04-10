@@ -5,7 +5,7 @@ public class Dress {
     static List<String> dressCategories = new ArrayList<>();
 
 
-    public static void dressCategories(){
+    public static void dressCategories() throws Exception {
         dressCategories.add("Shirts");
         dressCategories.add("Pants");
         dressCategories.add("Saree");

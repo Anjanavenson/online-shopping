@@ -5,7 +5,7 @@ public class Shoe {
     static List<String> shoeCategories = new ArrayList<>();
 
 
-    public static void shoeCategories(){
+    public static void shoeCategories() throws Exception {
         shoeCategories.add("Adidas");
         shoeCategories.add("nike");
         shoeCategories.add("mochi");

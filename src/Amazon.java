@@ -7,7 +7,7 @@ public class Amazon {
 
     List<String> categoryNames = new ArrayList<>();
 
-    public void showCategories() {
+    public void showCategories() throws Exception {
         categoryNames.add("Shoe");
         categoryNames.add("Toys");
         System.out.println(categoryNames);

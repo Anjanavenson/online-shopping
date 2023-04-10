@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49d1bedf-3c80-449f-b3de-885d15f9eb1b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firstprogram.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Amazon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Amazon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mobile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mobile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Payment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Shoe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shoe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Toys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Toys.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/balaj/java/oops",
     "onboarding.tips.debug.path": "C:/Users/balaj/java/first program java/firstprogram/src/Main.java"
   }
 }]]></component>

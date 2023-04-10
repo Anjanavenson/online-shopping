@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Mobile {
     static List<String> mobileCategories = new ArrayList<>();
 
-    public static void mobileCategories() {
+    public static void mobileCategories() throws Exception {
 
         mobileCategories.add("Apple");
         mobileCategories.add("Oneplus");
